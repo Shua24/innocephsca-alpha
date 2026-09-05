@@ -1,8 +1,8 @@
-**Innocephca Alpha** is an *open-source*, *sans-serif* + *monospace* typeface family, derived from **Iosevka**, designed for *writing code* and *used in terminals*. It is meant to be lighter and more widely spaced than Iosevka.
+**Innocephsca Alpha** is an *open-source*, *sans-serif* + *monospace* typeface family, derived from **Iosevka**, designed for *writing code* and *used in terminals*. It is meant to be lighter and more widely spaced than Iosevka.
 
 I just happen to like Iosevka, but I felt the need to customise it to fit my preferences. I hope people enjoy my fork as well as the original Iosevka. I genuinely think Iosevka deserves more users. My goal is simply to have a more opinionated version of Iosevka.
 
-![Innocephca Alpha in Neovim](./assets/screenshot.png)
+![Innocephsca Alpha in Neovim](./assets/screenshot.png)
 
 ## Installation
 
@@ -33,10 +33,10 @@ Innocephca Alpha is what you get when someone picks **one coherent Iosevka confi
 
 These are the opinionated choices baked into every glyph — the things you'd otherwise be toggling in stock Iosevka:
 
-| Glyph | Innocephca Alpha | Stock Iosevka default |
+| Glyph | Innocephsca Alpha | Stock Iosevka default |
 |-------|------------------|------------------------|
 | `0` zero | reverse-slashed (`reverse-slashed`) | dotted |
-| `a` | single-storey, top-cut, tailed | double-storey |
+| `a` | single-storey, top-cut, serifed | double-storey |
 | `g` | single-storey, serifless | double-storey (default) |
 | `6` six | straight bar (`straight-bar`) | open/curved |
 | `@` at | fourfold, tall (`fourfold-tall`) | threefold |

@@ -1,15 +1,16 @@
-[buildPlans.InnocephcaAlpha]
-family = "Innocephca Alpha"
+[buildPlans.InnocephscaAlpha]
+family = "Innocephsca Alpha"
 spacing = "term"
 serifs = "sans"
 noCvSs = true
 exportGlyphNames = true
 
-[buildPlans.InnocephcaAlpha.variants.design]
+[buildPlans.InnocephscaAlpha.variants.design]
 two = "straight-neck-serifless"
 four = "semi-open-serifless"
 five = "upright-arched-serifless"
 six = "straight-bar"
+seven = "straight-serifless"
 nine = "straight-bar"
 zero = "reverse-slashed"
 capital-a = "straight-serifless"
@@ -37,7 +38,7 @@ capital-w = "straight-serifless"
 capital-x = "straight-serifless"
 capital-y = "straight-serifless"
 capital-z = "straight-serifless"
-a = "single-storey-top-cut-tailed"
+a = "single-storey-top-cut-serifed"
 b = "toothed-serifless"
 c = "serifless"
 d = "toothed-serifless"
@@ -72,28 +73,26 @@ at = "fourfold-tall"
 dollar = "interrupted"
 cent = "bar-interrupted"
 
-  [buildPlans.InnocephcaAlpha.ligations]
+  [buildPlans.InnocephscaAlpha.ligations]
   inherits = "php"
 
-[buildPlans.InnocephcaAlpha.weights.Regular]
+[buildPlans.InnocephscaAlpha.weights.Regular]
 shape = 400
 menu = 400
 css = 400
 
-[buildPlans.InnocephcaAlpha.weights.Bold]
+[buildPlans.InnocephscaAlpha.weights.Bold]
 shape = 700
 menu = 700
 css = 700
 
-[buildPlans.InnocephcaAlpha.widths.Condensed]
+[buildPlans.InnocephscaAlpha.widths.Condensed]
 shape = 500
 menu = 3
 css = "condensed"
 
-[buildPlans.InnocephcaAlpha.widths.Normal]
+[buildPlans.InnocephscaAlpha.widths.Normal]
 shape = 600
 menu = 5
 css = "normal"
 
-# [buildPlans.InnocephcaAlpha.metricOverride]
-# sb = 'default_sb * 1.3'

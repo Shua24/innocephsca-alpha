@@ -1,0 +1,140 @@
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2/InnocephscaAlpha-Condensed.woff2') format('woff2'), url('TTF/InnocephscaAlpha-Condensed.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/InnocephscaAlpha-Regular.woff2') format('woff2'), url('TTF/InnocephscaAlpha-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	font-style: oblique;
+	src: url('WOFF2/InnocephscaAlpha-CondensedOblique.woff2') format('woff2'), url('TTF/InnocephscaAlpha-CondensedOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web Oblique';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	src: url('WOFF2/InnocephscaAlpha-CondensedOblique.woff2') format('woff2'), url('TTF/InnocephscaAlpha-CondensedOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2/InnocephscaAlpha-Oblique.woff2') format('woff2'), url('TTF/InnocephscaAlpha-Oblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web Oblique';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	src: url('WOFF2/InnocephscaAlpha-Oblique.woff2') format('woff2'), url('TTF/InnocephscaAlpha-Oblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2/InnocephscaAlpha-CondensedItalic.woff2') format('woff2'), url('TTF/InnocephscaAlpha-CondensedItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/InnocephscaAlpha-Italic.woff2') format('woff2'), url('TTF/InnocephscaAlpha-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2/InnocephscaAlpha-CondensedBold.woff2') format('woff2'), url('TTF/InnocephscaAlpha-CondensedBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/InnocephscaAlpha-Bold.woff2') format('woff2'), url('TTF/InnocephscaAlpha-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	font-style: oblique;
+	src: url('WOFF2/InnocephscaAlpha-CondensedBoldOblique.woff2') format('woff2'), url('TTF/InnocephscaAlpha-CondensedBoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web Oblique';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	src: url('WOFF2/InnocephscaAlpha-CondensedBoldOblique.woff2') format('woff2'), url('TTF/InnocephscaAlpha-CondensedBoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2/InnocephscaAlpha-BoldOblique.woff2') format('woff2'), url('TTF/InnocephscaAlpha-BoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web Oblique';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	src: url('WOFF2/InnocephscaAlpha-BoldOblique.woff2') format('woff2'), url('TTF/InnocephscaAlpha-BoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2/InnocephscaAlpha-CondensedBoldItalic.woff2') format('woff2'), url('TTF/InnocephscaAlpha-CondensedBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Innocephsca Alpha Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/InnocephscaAlpha-BoldItalic.woff2') format('woff2'), url('TTF/InnocephscaAlpha-BoldItalic.ttf') format('truetype');
+}
