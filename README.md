@@ -2,11 +2,11 @@
 
 I just happen to like Iosevka, but I felt the need to customise it to fit my preferences. I hope people enjoy my fork as well as the original Iosevka. I genuinely think Iosevka deserves more users. My goal is simply to have a more opinionated version of Iosevka.
 
-![Innocephca Alpha in terminal](./assets/screenshot.png)
+![Innocephca Alpha in Neovim](./assets/screenshot.png)
 
 ## Installation
 
-### Installing from GitHub Releases
+### Installing from the TTF artifacts
 
 1. Download the TTFs directly.
 2. Quit all your editors / programs.
