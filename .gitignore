@@ -7,7 +7,6 @@ node_modules
 
 # Build artifacts
 .build
-dist
 release-archives
 
 # Test artifacts
@@ -19,9 +18,21 @@ packages/*/lib
 packages/font-glyphs/src/**/*.mjs
 packages/font-otl/src/**/*.mjs
 
+# General source
+*.json
+build-plans.toml
+doc
+docker
+images
+packages
+params
+private-build-plans-sample.toml
+sample-text
+tools
+verdafile.mjs
+
 # Private config files
 private.toml
-private-build-plans.toml
 params/private-parameters.toml
 
 # pages-source ignores

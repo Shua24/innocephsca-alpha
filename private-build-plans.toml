@@ -1,0 +1,97 @@
+[buildPlans.InnocephcaAlpha]
+family = "Innocephca Alpha"
+spacing = "term"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.InnocephcaAlpha.variants.design]
+two = "straight-neck-serifless"
+four = "semi-open-serifless"
+five = "upright-arched-serifless"
+six = "straight-bar"
+seven = "bend-serifed"
+nine = "straight-bar"
+zero = "reverse-slashed"
+capital-a = "straight-serifless"
+capital-b = "standard-serifless"
+capital-c = "unilateral-inward-serifed"
+capital-d = "standard-serifless"
+capital-e = "serifless"
+capital-f = "serifless"
+capital-g = "flat-bottom-serifless-hooked"
+capital-h = "serifless"
+capital-i = "short-serifed"
+capital-j = "serifed"
+capital-k = "straight-serifless"
+capital-l = "serifless"
+capital-m = "hanging-serifless"
+capital-n = "standard-serifless"
+capital-p = "closed-serifless"
+capital-q = "curly-tailed"
+capital-r = "straight-serifless"
+capital-s = "serifless"
+capital-t = "serifless"
+capital-u = "flat-bottom-serifless"
+capital-v = "straight-serifless"
+capital-w = "straight-serifless"
+capital-x = "straight-serifless"
+capital-y = "straight-serifless"
+capital-z = "straight-serifless"
+a = "single-storey-top-cut-tailed"
+b = "toothed-serifless"
+c = "serifless"
+d = "toothed-serifless"
+f = "tailed-crossbar-at-half-ascender-height"
+g = "single-storey-serifless"
+h = "straight-serifless"
+k = "straight-serifless"
+l = "serifed-flat-tailed"
+n = "straight-top-left-serifed"
+p = "eared-motion-serifed"
+q = "straight-motion-serifed"
+r = "top-serifed"
+s = "bilateral-serifed"
+u = "toothed-bottom-right-serifed"
+v = "straight-serifless"
+w = "straight-serifless"
+x = "straight-bilateral-motion-serifed"
+y = "straight-serifless"
+z = "straight-serifless"
+long-s = "bent-hook-middle-serifed"
+eszet = "sulzbacher-bottom-serifed"
+lower-gamma = "casual-serifed"
+capital-lambda = "straight-base-serifed"
+lower-lambda = "tailed-turn"
+lower-mu = "tailed-motion-serifed"
+lower-nu = "curly-serifed"
+partial-derivative = "closed-contour"
+cyrl-a = "single-storey-top-cut-serifed"
+cyrl-capital-zhe = "symmetric-touching"
+cyrl-zhe = "symmetric-touching"
+at = "fourfold-tall"
+dollar = "interrupted"
+cent = "bar-interrupted"
+
+[buildPlans.InnocephcaAlpha.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.InnocephcaAlpha.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.InnocephcaAlpha.widths.Condensed]
+shape = 500
+menu = 3
+css = "condensed"
+
+[buildPlans.InnocephcaAlpha.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[buildPlans.InnocephcaAlpha.metricOverride]
+sb = 'default_sb * 1.55'
